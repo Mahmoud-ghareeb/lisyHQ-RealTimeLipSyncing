@@ -18,3 +18,4 @@ realesrgan
 
 ffmpeg
 lisy
+l

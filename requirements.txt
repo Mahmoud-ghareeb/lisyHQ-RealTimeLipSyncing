@@ -17,4 +17,3 @@ yapf
 realesrgan
 
 ffmpeg
-l
